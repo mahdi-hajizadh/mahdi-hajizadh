@@ -1,6 +1,8 @@
 # Mahdi Hajizadh
 
-I'm a computer engineering student. I build Python desktop and web apps, and experiment with computer vision and full-stack development.
+I'm a full-stack developer at **Mirka** and a computer engineering student. I also build Python desktop and web apps and experiment with computer vision.
+
+## Selected Projects
 
 | Project | What I built |
 | --- | --- |
@@ -9,3 +11,7 @@ I'm a computer engineering student. I build Python desktop and web apps, and exp
 | [Quiz Game](https://github.com/mahdi-hajizadh/Game) | A two-player terminal quiz with timed rounds, a persistent leaderboard, and automated tests and releases. |
 | [YOLO Object Detection](https://github.com/mahdi-hajizadh/YOLO-Object-Detection) | A Streamlit app for detecting objects in photos, adjusting confidence thresholds, and counting results by class. |
 | [CeramicStore](https://github.com/mahdi-hajizadh/CeramicStore) | A Persian RTL storefront and management panel built with ASP.NET Core, React, and PostgreSQL. |
+
+## Team Projects
+
+- **[Team Quiz Game](https://github.com/arnita-fallah/game)** — I implemented the game's application code end to end in the team repository hosted under Arnita Fallah's account.
