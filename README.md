@@ -1,6 +1,6 @@
 # Mahdi Hajizadh
 
-I'm a full-stack developer at **Mirka** and a computer engineering student. I also build Python desktop and web apps and experiment with computer vision.
+I'm a full-stack developer at **[Mirka]**(https://github.com/Mirka-Agency) and a computer engineering student. I also build Python desktop and web apps and experiment with computer vision.
 
 ## Selected Projects
 
