@@ -12,6 +12,3 @@ I'm a full-stack developer at **Mirka** and a computer engineering student. I al
 | [YOLO Object Detection](https://github.com/mahdi-hajizadh/YOLO-Object-Detection) | A Streamlit app for detecting objects in photos, adjusting confidence thresholds, and counting results by class. |
 | [CeramicStore](https://github.com/mahdi-hajizadh/CeramicStore) | A Persian RTL storefront and management panel built with ASP.NET Core, React, and PostgreSQL. |
 
-## Team Projects
-
-- **[Team Quiz Game](https://github.com/arnita-fallah/game)** — I implemented the game's application code end to end in the team repository hosted under Arnita Fallah's account.
